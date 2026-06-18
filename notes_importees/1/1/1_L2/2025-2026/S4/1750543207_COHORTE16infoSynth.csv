@@ -1,0 +1,261 @@
+;;;;Probabilité-Statistique;Langage C;Maintenance Informatique;Algorithmique et Structures des Données;UML;Moyenne Cumulative;Moyenne Littérale;Mention;Nbre de Cours Validé(s);Nbre de Crédits Obtenus
+N°;Matricule;Nom;Prénom(s);M.PS;M.LC;M.MI;M.AL;M.UML;Mcum;Mlit;Mtion;NCV;NCO
+1;1,51011E+11;BALDE;ALPHA OUMAR;8,788;7,6;8,35;8,275;8,3;3,8;B;Bien;5;30
+2;1,51011E+11;DIALLO;ALHASSANE;8,7;7,3;8,225;8,475;8,15;3,8;B;Bien;5;30
+3;1,51011E+11;BARRY;BOUBACAR;8,5;7,9;7,8;8,825;8,3;3,6;B;Bien;5;30
+4;1,51011E+11;DIALLO;IBRAHIMA SORY;8,463;7,3;7,275;8,6;8,425;3,6;B;Bien;5;30
+5;1,51011E+11;BALDE;MAMOUDOU;8,525;7,5;7,025;9,163;7,8;3,4;B;Bien;5;30
+6;1,51011E+11;BARRY;MAMADOU SAIDOU;8,313;7,1;6,875;8,3;7,8;3,2;B;Bien;5;30
+7;1,51011E+11;SOW;BOUBACAR;7,763;7;8,4;7,2;6,7;3;B;Bien;5;30
+8;1,51011E+11;SOW;MAMADOU DIAN;7,825;7,4;8,625;7,125;6,725;3;B;Bien;5;30
+9;1,51011E+11;DIALLO;MAMADOU ABDOULAYE;6,113;8,1;6,45;8,9;6,1;2,8;C;Assez Bien;5;30
+10;1,51011E+11;KANTE;MAMADOU DJOULDE;7,725;7,2;6,775;8,2;6,225;2,8;C;Assez Bien;5;30
+11;1,51011E+11;BARRY;IBRAHIMA;6,325;7,4;5,75;7,588;8,275;2,6;C;Assez Bien;5;30
+12;1,51011E+11;BARRY;IBRAHIMA SORY;6,875;8,1;5,85;7,375;7,2;2,6;C;Assez Bien;5;30
+13;1,51011E+11;BALDE;MAMADOU BOBO;6,3;7,2;7,025;6,425;6,8;2,4;C;Assez Bien;5;30
+14;1,51011E+11;GUISSE;OUMAR;6,413;7,3;6,825;7;6,15;2,4;C;Assez Bien;5;30
+15;1,51003E+11;BALAMOU;YAKOUBA;5,163;7;6,025;6,175;7,025;2,2;C;Assez Bien;5;30
+16;1,51011E+11;BARRY;MAMADOU KORKA;5,575;7,9;6,325;7,15;6,9;2,2;C;Assez Bien;5;30
+17;1,51011E+11;DIALLO;SAIDOU;6,138;7,5;6,175;6,938;6;2,2;C;Assez Bien;5;30
+18;1,51011E+11;BAH;OUMAR;6,663;7,2;6,225;5,95;6,275;2;C;Assez Bien;5;30
+19;1,51011E+11;GUILAVOGUI;DALLA;6,1;7,2;6,55;6,65;5,65;2;C;Assez Bien;5;30
+20;1,51011E+11;KPOHOMOU;JONAS;5,275;7,4;6,25;6;6,688;2;C;Assez Bien;5;30
+21;1,51011E+11;BAH;RAMATOULAYE;5;7;5,175;6,125;6,2;1,8;D;Passable;5;30
+22;1,51011E+11;DIALLO;ABDOULAYE;5,725;5,2;8,05;5,325;6,6;1,8;D;Passable;5;30
+23;1,51011E+11;SOW;ALGASSIMOU;5,863;5,7;6,225;6,913;7,775;1,8;D;Passable;5;30
+24;1,51011E+11;KOUROUMA;MARTIN MAPOU;0;7,6;7,425;6,513;5,975;1,8;D;Passable;4;24
+25;1,51011E+11;MAGASSOUBA;BANDJOU;5,65;7,2;6,075;4,625;7,325;1,8;D;Passable;4;24
+26;1,51011E+11;GBAMOU;BLAISE;5,05;7,3;5,475;3,925;6,9;1,4;D;Passable;4;24
+27;1,51011E+11;MAHOMY;CE PIERRE;5,038;7,2;5,475;4,275;6,325;1,4;D;Passable;4;24
+28;1,51011E+11;CAMARA;AMADY;0;7,2;5,45;5,375;5,7;1,2;D;Passable;4;24
+29;1,51011E+11;INAPOGUI;KOÏ OUA;5,163;6,6;6,5;4,275;5,875;1,2;D;Passable;4;24
+30;1,51011E+11;CONDE;FACELY 2;5,138;6,8;5,825;4,825;6,8;1,2;D;Passable;4;24
+31;1,51011E+11;DIAKITE;SEKOU;0;6,3;5,8;3,925;5,575;0,8;E;Echec;3;18
+32;1,51011E+11;BAH;AMADOU DJOGO;;;;;;0;E;Echec;0;0
+33;1,51011E+11;BALDÉ;ALSENY;;;;;;0;E;Echec;0;0
+34;1,51011E+11;DIALLO;ALPHA AMADOU OURY;;;;;;0;E;Echec;0;0
+35;1,51011E+11;DIALLO;FATOUMATA BORRY;;;;;;0;E;Echec;0;0
+36;1,51011E+11;DIALLO;FODE ABASS;;;;;;0;E;Echec;0;0
+37;1,51011E+11;MAMY;JOSEPH;;;;;;0;E;Echec;0;0
+38;1,51011E+11;SIDIBE;MOUSSA;;;;;;0;E;Echec;0;0
+39;;;;;;;;;0;E;Echec;0;0
+40;;;;;;;;;0;E;Echec;0;0
+41;;;;;;;;;0;E;Echec;0;0
+42;;;;;;;;;0;E;Echec;0;0
+43;;;;;;;;;0;E;Echec;0;0
+44;;;;;;;;;0;E;Echec;0;0
+45;;;;;;;;;0;E;Echec;0;0
+46;;;;;;;;;0;E;Echec;0;0
+47;;;;;;;;;0;E;Echec;0;0
+48;;;;;;;;;0;E;Echec;0;0
+49;;;;;;;;;0;E;Echec;0;0
+50;;;;;;;;;0;E;Echec;0;0
+51;;;;;;;;;0;E;Echec;0;0
+52;;;;;;;;;0;E;Echec;0;0
+53;;;;;;;;;0;E;Echec;0;0
+54;;;;;;;;;0;E;Echec;0;0
+55;;;;;;;;;0;E;Echec;0;0
+56;;;;;;;;;0;E;Echec;0;0
+57;;;;;;;;;0;E;Echec;0;0
+58;;;;;;;;;0;E;Echec;0;0
+59;;;;;;;;;0;E;Echec;0;0
+60;;;;;;;;;0;E;Echec;0;0
+61;;;;;;;;;0;E;Echec;0;0
+62;;;;;;;;;0;E;Echec;0;0
+63;;;;;;;;;0;E;Echec;0;0
+64;;;;;;;;;0;E;Echec;0;0
+65;1,51003E+11;TOURE;AMADOU SADJO;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+66;1,51002E+11;SIDIBE;ANSOUMANE;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+67;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+68;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+69;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+70;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+71;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+72;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+73;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+74;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+75;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+76;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+77;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+78;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+79;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+80;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+81;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+82;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+83;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+84;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+85;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+86;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+87;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+88;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+89;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+90;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+91;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+92;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+93;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+94;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+95;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+96;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+97;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+98;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+99;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+100;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+101;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+102;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+103;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+104;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+105;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+106;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+107;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+108;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+109;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+110;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+111;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+112;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+113;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+114;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+115;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+116;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+117;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+118;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+119;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+120;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+121;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+122;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+123;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+124;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+125;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+126;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+127;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+128;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+129;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+130;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+131;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+132;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+133;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+134;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+135;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+136;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+137;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+138;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+139;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+140;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+141;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+142;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+143;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+144;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+145;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+146;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+147;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+148;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+149;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+150;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+151;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+152;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+153;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+154;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+155;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+156;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+157;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+158;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+159;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+160;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+161;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+162;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+163;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+164;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+165;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+166;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+167;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+168;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+169;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+170;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+171;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+172;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+173;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+174;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+175;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+176;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+177;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+178;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+179;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+180;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+181;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+182;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+183;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+184;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+185;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+186;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+187;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+188;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+189;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+190;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+191;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+192;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+193;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+194;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+195;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+196;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+197;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+198;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+199;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+200;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+201;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+202;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+203;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+204;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+205;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+206;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+207;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+208;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+209;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+210;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+211;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+212;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+213;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+214;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+215;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+216;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+217;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+218;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+219;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+220;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+221;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+222;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+223;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+224;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+225;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+226;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+227;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+228;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+229;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+230;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+231;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+232;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+233;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+234;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+235;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+236;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+237;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+238;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+239;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+240;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+241;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+242;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+243;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+244;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+245;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+246;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+247;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+248;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+249;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+250;;;;#N/A;;;#N/A;#N/A;#N/A;#N/A;#N/A;0;0
+;;;;;;;;;;;;;
+;;;;;;;;;    Labé, le  21 octobre 2024;;;;
+;Le Chef Service Scolarité ;;;   ;;;;;     Le Chef de Département;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;     M. Issa SOUMARE;;;;;;;;       M. Abdoulaye SOW;;;;
